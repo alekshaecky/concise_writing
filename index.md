@@ -1,37 +1,111 @@
-## Welcome to GitHub Pages
+## Concise (Public)
 
-You can use the [editor on GitHub](https://github.com/alekshaecky/concise_writing/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+How to write the no-nonsense version of your document.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+by Aleks Haecky (& made more concise by Katarina Stenstedt)
 
-### Markdown
+- [Writing docs is like programming](#writing)
+- [Technical writing is like poetry](#technical)
+- [Avoid writing docs](#avoid)
+- [Write docs that get the job done](#write)
+- [Be efficient](#efficient)
+- [Be concise](#concise)
+- [Be heard (otherwise, what's the point….)](#heard)
+- [Optimize tools and processes](#optimize)
+- [Get feedback](#feedback)
+- [Publish](#publish)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### TL;DR
 
-```markdown
-Syntax highlighted code block
+Technical writing is about getting the job done. 
 
-# Header 1
-## Header 2
-### Header 3
+Concision respects the reader, saves time and money, and results in beauty.
 
-- Bulleted
-- List
+<a name="writing"></a>
+### Writing docs is like programming
 
-1. Numbered
-2. List
+- Every word serves a function.
+- Efficiency matters.
+- Instructions need to be correct and precise. 
+- Good architecture supports clarity and maintenance. 
+- Bugs are inevitable. Track and fix them. 
 
-**Bold** and _Italic_ and `Code` text
+<a name="technical"></a>
+### Technical writing is like poetry
 
-[Link](url) and ![Image](src)
-```
+- Every word matters. 
+- Rhythm matters. 
+- Order matters. 
+- Formatting and presentation matter. 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<a name="avoid"></a>
+### Avoid writing docs
 
-### Jekyll Themes
+- Fix your code to read like a story: redesign, refactor, rename, comment.
+- Fix the UI.
+- Make a diagram or short video.
+- Cancel the project.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/alekshaecky/concise_writing/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<a name="write"></a>
+### Write docs that get the job done
 
-### Support or Contact
+- Get (mostly) correct content to users.
+- Unless “perfect” saves lives, “good enough” is good enough. 
+- Decide up front what is good enough. Usually, 90%.
+- Create a one-sentence pitch for your content. 
+- Be inclusive and culturally sensitive when giving examples.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<a name="efficient"></a>
+### Be efficient
+
+- Know how to spell. Trust the spellchecker to catch what you miss. 
+- Know grammar. Because grammar checkers have limits, and people care. 
+- Know punctuation. Punctuation marks follow the breath, not the rule book. Mostly.
+
+<a name="concise"></a>
+### Be concise
+
+- Only use words that matter. 
+- Eradicate jargon and corpspeak. 
+- Beware of the [Curse of Knowledge](https://en.wikipedia.org/wiki/Curse_of_knowledge).
+- Edit mercilessly.
+- Be specific, certain, practical, and direct. 
+- One topic per sentence.
+- Eliminate choice in instructions.
+
+<a name="heard"></a>
+### Be heard (otherwise, what's the point….)
+
+- Speak to your reader.
+- Benefits get readers excited. Your excitement is irrelevant.
+- Make your readers feel smart. Nothing is simple, easy, or quick. 
+
+<a name="optimize"></a>
+### Optimize tools and processes
+
+- Use the tools that work for you. 
+- Minimize contributors. Give each a focused task. 
+- Choose one person to make all final decisions. 
+- Let one editor unify the content. 
+- Simplify your publication process. 
+- Only negotiate what matters to achieve the doc's purpose.
+
+<a name="feedback"></a>
+### Get feedback
+
+- QA time should be proportional to audience size and doc longevity. 
+- Trust your editor.
+- Don’t let anyone read it until you are done with the first draft. 
+- The purpose of feedback is to improve your document, not to make reviewers happy. 
+
+<a name="publish"></a>
+### Publish
+
+- Always attribute art, images, and diagrams. Never use it if you don’t know the origin.
+- If you can, get graphics redone professionally. 
+- Use callouts and captions to make diagrams translatable.
+- Use strong colors and contrast for accessibility. Prefer black on white.
+- Choose titles and headings that summarize content.
+- Publish where your audience can find it. 
+- Crowdsource maintenance. 
+
