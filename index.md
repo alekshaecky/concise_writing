@@ -1,3 +1,4 @@
+by Aleks Haecky (& made more concise by Katarina Stenstedt)
 
 - [Writing docs is like programming](#writing)
 - [Technical writing is like poetry](#technical)
